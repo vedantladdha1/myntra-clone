@@ -94,11 +94,7 @@ footer{
 }
 
 
-@media(max-width:720px){
- .itemImgHidden{
-  display:none;
-}
-}
+
 @media (max-width: 1550px) { 
 
   nav ul li {
