@@ -116,3 +116,8 @@ header{
     margin: 12px;
   }
 }
+
+@media(max-width:720px){
+ .flex-wrap{
+ flex-wrap:wrap;
+ }
