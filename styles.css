@@ -70,6 +70,11 @@ nav ul li {
   margin: 6px 12px;
 }
 
+.itemImgHidden{
+  width: 10vw;
+  margin: 6px 12px;
+}
+
 footer{
   padding : 23px;
   text-align: center;
@@ -118,6 +123,6 @@ header{
 }
 
 @media(max-width:720px){
- .flex-wrap{
- flex-wrap:wrap;
- }
+ .itemImgHidden{
+  display:hidden;
+}
